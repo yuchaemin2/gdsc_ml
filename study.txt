@@ -1,0 +1,8 @@
+[머신러닝] 나의 첫 머신러닝
+https://velog.io/@yuchaemin/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-01-02.-%EB%82%98%EC%9D%98-%EC%B2%AB-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%B0%8F-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0
+
+[머신러닝] 데이터 다루기
+https://velog.io/@yuchaemin/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-02.-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0
+
+[머신러닝] 트리 알고리즘
+https://velog.io/@yuchaemin/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-05.-%EA%B2%B0%EC%A0%95
